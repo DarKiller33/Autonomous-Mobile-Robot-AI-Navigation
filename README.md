@@ -9,6 +9,10 @@ An advanced Autonomous Mobile Robot simulation framework built on **ROS 2 Humble
 * **`scripts/`**: Central python engine nodes handling OpenCV, YOLOv8 tracking, and action client coordination layers.
 * **`videos/`** & **`docs/`**: Media demonstrations and engineering system architecture logs.
 
+# Simulation Media
+<img width="1883" height="987" alt="Yolo message" src="https://github.com/user-attachments/assets/f21bd7f3-4f50-490c-84d2-a6dd2206737d" />
+<img width="1437" height="1011" alt="Sim 1" src="https://github.com/user-attachments/assets/52847e8a-f4a8-4edd-bb7b-2649e6c08269" />
+
 ## 🛠️ Installation & Dependency Setup
 
 To run this project on your system, ensure you are using **Ubuntu 22.04 LTS** with **ROS 2 Humble** installed.

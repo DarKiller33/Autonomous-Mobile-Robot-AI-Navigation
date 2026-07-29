@@ -15,13 +15,13 @@ An advanced Autonomous Mobile Robot simulation framework built on **ROS 2 Humble
 
 ### 🎥 Demonstration Videos
 
-#### Chat Interface & Task Planning
+#### Object Avoidance
 <video src="https://github.com/user-attachments/assets/c2a91a85-a221-487a-97cc-00c5bd3e69be" width="100%" controls></video>
 
-#### Autonomous Navigation - Goal 1
+#### Open CV - Edge Detection
 <video src="https://github.com/user-attachments/assets/570521ee-89f3-4343-a230-85d5f88668f0" width="100%" controls></video>
 
-#### Autonomous Navigation - Goal 2
+#### Object Detection
 <video src="https://github.com/user-attachments/assets/56193553-e2c2-4521-a2b2-5118180173a5" width="100%" controls></video>
 
 

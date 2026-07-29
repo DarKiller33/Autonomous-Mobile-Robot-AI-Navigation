@@ -13,17 +13,17 @@ An advanced Autonomous Mobile Robot simulation framework built on **ROS 2 Humble
 <img width="1883" height="987" alt="Yolo message" src="https://github.com/user-attachments/assets/f21bd7f3-4f50-490c-84d2-a6dd2206737d" />
 <img width="1897" height="1007" alt="Sim 2" src="https://github.com/user-attachments/assets/6f4200ab-49fd-4bf9-ab9d-7c11c8af8308" />
 
+### 🎥 Demonstration Videos
 
+#### Chat Interface & Task Planning
+<video src="https://github.com/user-attachments/assets/c2a91a85-a221-487a-97cc-00c5bd3e69be" width="100%" controls></video>
 
-https://github.com/user-attachments/assets/c2a91a85-a221-487a-97cc-00c5bd3e69be
+#### Autonomous Navigation - Goal 1
+<video src="https://github.com/user-attachments/assets/570521ee-89f3-4343-a230-85d5f88668f0" width="100%" controls></video>
 
+#### Autonomous Navigation - Goal 2
+<video src="https://github.com/user-attachments/assets/56193553-e2c2-4521-a2b2-5118180173a5" width="100%" controls></video>
 
-
-https://github.com/user-attachments/assets/570521ee-89f3-4343-a230-85d5f88668f0
-
-
-
-https://github.com/user-attachments/assets/56193553-e2c2-4521-a2b2-5118180173a5
 
 
 

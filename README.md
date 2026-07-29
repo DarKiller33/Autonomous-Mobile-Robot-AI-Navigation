@@ -11,7 +11,9 @@ An advanced Autonomous Mobile Robot simulation framework built on **ROS 2 Humble
 
 # Simulation Media
 <img width="1883" height="987" alt="Yolo message" src="https://github.com/user-attachments/assets/f21bd7f3-4f50-490c-84d2-a6dd2206737d" />
-<img width="1437" height="1011" alt="Sim 1" src="https://github.com/user-attachments/assets/52847e8a-f4a8-4edd-bb7b-2649e6c08269" />
+<img width="1897" height="1007" alt="Sim 2" src="https://github.com/user-attachments/assets/6f4200ab-49fd-4bf9-ab9d-7c11c8af8308" />
+
+
 
 ## 🛠️ Installation & Dependency Setup
 
